@@ -1,3 +1,15 @@
+##More Thing
+
+This repo is created during learning of angular framework to build differenet kind of single page web applications and I test and upload my learning and documentation and its my proof of concept before applying to other real world projects thats set . You can take referce if You are learning the angular .
+Things I have implemented
+
+- child to parent data transfer
+- using services and - dependecy infection
+- a proper routing
+
+- graphql ( will do soon )
+- use other external component library for Ui .
+
 # Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
